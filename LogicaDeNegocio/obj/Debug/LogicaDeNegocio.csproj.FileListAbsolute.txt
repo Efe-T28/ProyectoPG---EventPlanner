@@ -1,0 +1,11 @@
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\bin\Debug\Datos.dll
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\bin\Debug\Entidades.dll
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\bin\Debug\Datos.pdb
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\bin\Debug\Entidades.pdb
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\obj\Debug\LogicaDe.3EC85E2B.Up2Date
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
