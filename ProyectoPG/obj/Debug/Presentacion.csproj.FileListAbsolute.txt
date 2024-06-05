@@ -17,3 +17,51 @@ C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Form1.resources
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Iniciarsesion.resources
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\ProyectoPG\bin\Debug\MaterialSkin.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\ProyectoPG.exe.config
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\ProyectoPG.exe
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\ProyectoPG.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\Entidades.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\LogicaDeNegocio.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\MaterialSkin.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\Datos.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\Entidades.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\bin\Debug\Datos.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Iniciarsesion.resources
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Properties.Resources.resources
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.exe
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.pdb
+C:\Users\Maria\Documents\Programacion\PROYECTO\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.MenuPrincipal.resources
+C:\Users\Maria\Documents\Programacion\PROYECTO\ProyectoPG-main\ProyectoPG\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Iniciarsesion.resources
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.MenuPrincipal.resources
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Properties.Resources.resources
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.exe
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\ProyectoPG.exe.config
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\ProyectoPG.exe
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\ProyectoPG.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\Entidades.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\LogicaDeNegocio.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\MaterialSkin.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\Datos.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\Entidades.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\LogicaDeNegocio.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\bin\Debug\Datos.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Iniciarsesion.resources
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.MenuPrincipal.resources
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.Properties.Resources.resources
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.exe
+C:\Proyecto\Evento pl\ProyectoPG-main\ProyectoPG\obj\Debug\ProyectoPG.pdb

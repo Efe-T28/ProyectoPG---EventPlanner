@@ -7,22 +7,30 @@ using System.Threading.Tasks;
 
 namespace Entidades.Modelos
 {
-    public class Organizador : Models
+    public class Organizador: Models
     {
         public Organizador()
         {
-
         }
 
-        int id { get; set; }
+        public Organizador(int id, string nombre, string usuario, string contraseña, string correo) 
+        {
+            Id = id;
+            Nombre = nombre;
+            Contraseña = contraseña;
+            Usuario = usuario;
+            Correo = correo;
+        }
 
-        string nombre { get; set; }
+        public int Id { get; set; }
 
-        string usuario { get; set; }
+        public string Nombre { get; set; }
 
-        string contraseña { get; set; }
+        public string Usuario { get; set; }
 
-        string correo { get; set; }
+        public string Contraseña { get; set; }
+
+        public string Correo { get; set; }
 
         public List<Evento> List { get; set; }
 

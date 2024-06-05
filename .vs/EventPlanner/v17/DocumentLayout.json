@@ -1,90 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\",
+  "WorkspaceRootPath": "C:\\Proyecto\\Evento pl\\ProyectoPG-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|c:\\users\\maria\\documents\\programacion\\proyectopg-main\\proyectopg-main\\proyectopg-main\\proyectopg\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|solutionrelative:proyectopg\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\proyectopg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|solutionrelative:proyectopg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\proyectopg\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|solutionrelative:proyectopg\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\logicadenegocio\\organizadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|solutionrelative:logicadenegocio\\organizadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\materialevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\materialevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\proyectopg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\Presentacion.csproj|solutionrelative:proyectopg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\logicadenegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|solutionrelative:logicadenegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\logicadenegocio\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|solutionrelative:logicadenegocio\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\ProyectoPG.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\proyectopg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{394E85DB-EB94-4D54-AEA3-E5EBCAF1949E}|ProyectoPG\\ProyectoPG.csproj|solutionrelative:proyectopg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\participantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\participantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{192A360F-C97D-45E5-8E54-B7488EB651CC}|Datos\\Datos.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\datos\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{192A360F-C97D-45E5-8E54-B7488EB651CC}|Datos\\Datos.csproj|c:\\proyecto\\evento pl\\proyectopg-main\\datos\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{192A360F-C97D-45E5-8E54-B7488EB651CC}|Datos\\Datos.csproj|solutionrelative:datos\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\utilities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\utilities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\fianza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\fianza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\interfaces\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\interfaces\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDB921-6DCF-4FD2-AE33-2740DC158F60}|Entidades\\Entidades.csproj|solutionrelative:entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{192A360F-C97D-45E5-8E54-B7488EB651CC}|Datos\\Datos.csproj|C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{192A360F-C97D-45E5-8E54-B7488EB651CC}|Datos\\Datos.csproj|solutionrelative:datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|c:\\proyecto\\evento pl\\proyectopg-main\\logicadenegocio\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E74C0B1-2BB3-45B7-A72F-89EFC18B05B2}|LogicaDeNegocio\\LogicaDeNegocio.csproj|solutionrelative:logicadenegocio\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,253 +22,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoPG\\Program.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Program.cs",
-              "RelativeToolTip": "ProyectoPG\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "DocumentIndex": 1,
+              "Title": "EventoService.cs",
+              "DocumentMoniker": "C:\\Proyecto\\Evento pl\\ProyectoPG-main\\LogicaDeNegocio\\EventoService.cs",
+              "RelativeDocumentMoniker": "LogicaDeNegocio\\EventoService.cs",
+              "ToolTip": "C:\\Proyecto\\Evento pl\\ProyectoPG-main\\LogicaDeNegocio\\EventoService.cs",
+              "RelativeToolTip": "LogicaDeNegocio\\EventoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:39:24.774Z"
+              "WhenOpened": "2024-06-05T04:21:23.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Iniciarsesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Iniciarsesion.cs",
-              "RelativeDocumentMoniker": "ProyectoPG\\Iniciarsesion.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Iniciarsesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoPG\\Iniciarsesion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:26:28.443Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Form1.cs",
-              "RelativeDocumentMoniker": "ProyectoPG\\Form1.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoPG\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:12:13.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MaterialEvento.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\MaterialEvento.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\MaterialEvento.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\MaterialEvento.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\MaterialEvento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:03:14.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Ticket.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Ticket.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Ticket.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:03:59.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Iniciarsesion.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Iniciarsesion.cs",
-              "RelativeDocumentMoniker": "ProyectoPG\\Iniciarsesion.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Iniciarsesion.cs",
-              "RelativeToolTip": "ProyectoPG\\Iniciarsesion.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAADwvy4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:29:21.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrganizadorService.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\LogicaDeNegocio\\OrganizadorService.cs",
-              "RelativeDocumentMoniker": "LogicaDeNegocio\\OrganizadorService.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\LogicaDeNegocio\\OrganizadorService.cs",
-              "RelativeToolTip": "LogicaDeNegocio\\OrganizadorService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:18:06.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\LogicaDeNegocio\\Class1.cs",
-              "RelativeDocumentMoniker": "LogicaDeNegocio\\Class1.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\LogicaDeNegocio\\Class1.cs",
-              "RelativeToolTip": "LogicaDeNegocio\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:54:01.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Participantes.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Participantes.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Participantes.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Participantes.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Participantes.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:03:45.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG\\Form1.cs",
-              "RelativeDocumentMoniker": "ProyectoPG\\Form1.cs",
-              "ToolTip": "C:\\ProyectoProgramaci\u00F3n\\EventPlanner\\ProyectoPG\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ProyectoProgramaci\u00F3n\\EventPlanner\\ProyectoPG\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:49:36.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EventoService.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\LogicaDeNegocio\\EventoService.cs",
-              "RelativeDocumentMoniker": "LogicaDeNegocio\\EventoService.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\LogicaDeNegocio\\EventoService.cs",
-              "RelativeToolTip": "LogicaDeNegocio\\EventoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:13:47.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Organizador.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Organizador.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Organizador.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Organizador.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Organizador.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:03:31.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Material.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Material.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Material.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Material.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:09:43.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "EventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Datos\\EventoRepository.cs",
+              "DocumentMoniker": "C:\\Proyecto\\Evento pl\\ProyectoPG-main\\Datos\\EventoRepository.cs",
               "RelativeDocumentMoniker": "Datos\\EventoRepository.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Datos\\EventoRepository.cs",
+              "ToolTip": "C:\\Proyecto\\Evento pl\\ProyectoPG-main\\Datos\\EventoRepository.cs",
               "RelativeToolTip": "Datos\\EventoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwD0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:15:03.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TipoEvento.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\TipoEvento.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\TipoEvento.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\TipoEvento.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\TipoEvento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:04:13.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Utilities\\Response.cs",
-              "RelativeDocumentMoniker": "Entidades\\Utilities\\Response.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Utilities\\Response.cs",
-              "RelativeToolTip": "Entidades\\Utilities\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:05:05.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Fianza.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Fianza.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Fianza.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Fianza.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Fianza.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:02:49.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Evento.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Evento.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Modelos\\Evento.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Evento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:02:34.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Interfaces\\Models.cs",
-              "RelativeDocumentMoniker": "Entidades\\Interfaces\\Models.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Interfaces\\Models.cs",
-              "RelativeToolTip": "Entidades\\Interfaces\\Models.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:01:50.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Class1.cs",
-              "RelativeDocumentMoniker": "Entidades\\Class1.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Entidades\\Class1.cs",
-              "RelativeToolTip": "Entidades\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:53:14.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Datos\\Class1.cs",
-              "RelativeDocumentMoniker": "Datos\\Class1.cs",
-              "ToolTip": "C:\\Users\\Maria\\Documents\\programacion\\ProyectoPG-main\\ProyectoPG-main\\ProyectoPG-main\\Datos\\Class1.cs",
-              "RelativeToolTip": "Datos\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:52:50.411Z"
+              "WhenOpened": "2024-06-05T04:20:40.787Z",
+              "EditorCaption": ""
             }
           ]
         }

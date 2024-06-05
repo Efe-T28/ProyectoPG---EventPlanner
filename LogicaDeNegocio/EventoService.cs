@@ -20,84 +20,58 @@ namespace LogicaDeNegocio
         {
             try
             {
-
                 if (eventoRepository.ConsultarPorId(evento.Id) == null)
                 {
                     eventoRepository.Guardar(evento);
-                    return $"Exito, se ha guardado los datos de: {evento.NombreEvento} ";
+                    return $"Éxito, se ha guardado los datos de: {evento.Id} ";
                 }
                 else
                 {
-                    return $"Lo sentimos, con la Identificación {evento.Id} ya se encuentra registrada";
+                    return $"Lo sentimos, el evento con la identificación {evento.Id} ya se encuentra registrado";
                 }
             }
             catch (Exception e)
             {
-
-                return $"Error de la Aplicacion: {e.Message}";
+                return $"Error de la Aplicación: {e.Message}";
             }
         }
-        public string Eliminar(Evento evento)
+
+        public string Eliminar(int idEvento)
         {
             try
             {
-                if (eventoRepository.ConsultarPorId(evento.Id) != null)
+                Evento evento = eventoRepository.ConsultarPorId(idEvento);
+                if (evento != null)
                 {
-                    eventoRepository.Eliminar(evento);
-                    return ($"se han guardado los datos de:  {evento.NombreEvento} ");
+                    eventoRepository.Eliminar(idEvento);
+                    return $"Se ha eliminado el evento con ID: {idEvento}";
                 }
                 else
                 {
-                    return ($"Lo sentimos, no se encuentra el evento identificado con el  {evento.Id}");
+                    return $"Lo sentimos, no se encuentra el evento identificado con el {idEvento}";
                 }
             }
             catch (Exception e)
             {
-
-                return $"Error de la Aplicacion: {e.Message}";
+                return $"Error de la Aplicación: {e.Message}";
             }
-
         }
 
         public Evento ConsultarPorId(int idEvento)
         {
-
-            Evento evento = eventoRepository.BuscarPorId(idEvento);
-            if (evento == null)
-            {
-                return null;
-            }
-            return evento;
+            return eventoRepository.ConsultarPorId(idEvento);
         }
+
         public List<Evento> GetEventos()
         {
-            var eventos = new List<Evento>();
-            return eventos;
+            
+            throw new NotImplementedException();
         }
+
         public void Modificar(Evento evento)
         {
-
-            var eventos = GetEventos();
-            var eventoToUpdate = eventos.FirstOrDefault(e => e.Id == evento.Id);
-
-            if (eventoToUpdate != null)
-            {
-
-                eventoToUpdate.Id = evento.Id;
-                eventoToUpdate.Direccion = evento.Direccion;
-                eventoToUpdate.Descripcion = evento.Descripcion;
-                eventoToUpdate.Categoria = evento.Categoria;
-                eventoToUpdate.NombreEvento = evento.NombreEvento;
-                eventoToUpdate.Fecha = evento.Fecha;
-                eventoToUpdate.Capacidad = evento.Capacidad;
-                eventoToUpdate.MontoTotal = evento.MontoTotal;
-            }
-
-            else
-            {
-                Console.WriteLine($"No se encontró el evento con ID: {evento.Id}");
-            }
-            
+           
+            throw new NotImplementedException();
         }
     }
 }

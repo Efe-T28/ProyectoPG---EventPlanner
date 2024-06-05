@@ -46,5 +46,47 @@ namespace ProyectoPG
         {
 
         }
+
+        private void txtUsuario_Enter(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "Usuario") {
+                txtUsuario.Text = "";
+                txtUsuario.ForeColor = Color.Black;
+            }
+        }
+
+        private void txtContraseña_Click(object sender, EventArgs e)
+        {
+            if (txtContraseña.Text == "Contraseña") {
+                txtContraseña.Text = "";
+                txtContraseña.ForeColor = Color.Black;
+                txtContraseña.UseSystemPasswordChar= true;
+            }
+        }
+
+        private void txtContraseña_Enter(object sender, EventArgs e)
+        {
+            if (txtContraseña.Text == "Contraseña")
+            {
+                txtContraseña.Text = "";
+                txtContraseña.ForeColor = Color.Black;
+                txtContraseña.UseSystemPasswordChar = true;
+            }
+        }
+
+        private void btncerrar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnminimizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

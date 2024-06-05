@@ -16,3 +16,33 @@ C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.Up2Date
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\Datos\obj\Debug\Datos.dll
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\Datos\obj\Debug\Datos.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\bin\Debug\Datos.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\bin\Debug\Datos.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\bin\Debug\Entidades.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\bin\Debug\Entidades.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\obj\Debug\Datos.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Datos\obj\Debug\Datos.pdb
+C:\Users\Maria\Documents\Programacion\PROYECTO\ProyectoPG-main\Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\bin\Debug\Datos.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\bin\Debug\Datos.pdb
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\bin\Debug\Entidades.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\bin\Debug\Entidades.pdb
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\bin\Debug\Datos.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\bin\Debug\Datos.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\bin\Debug\Entidades.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\bin\Debug\Entidades.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Datos\obj\Debug\Datos.pdb

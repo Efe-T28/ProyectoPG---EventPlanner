@@ -10,3 +10,27 @@ C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\Entidades\obj\Debug\Entidades.dll
 C:\Users\Maria\Documents\programacion\ProyectoPG-main\ProyectoPG-main\ProyectoPG-main\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maria\Documents\Programacion\Proyecto\ProyectoPG-main\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maria\Documents\Programacion\PROYECTO\ProyectoPG-main\Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Maria\Documents\Programacion\PROYECTO\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\bin\Debug\Entidades.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.dll
+C:\Users\HP\Documents\UNIVERSIDAD\Evento pl\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\bin\Debug\Entidades.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\bin\Debug\Entidades.pdb
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.dll
+C:\Proyecto\Evento pl\ProyectoPG-main\Entidades\obj\Debug\Entidades.pdb

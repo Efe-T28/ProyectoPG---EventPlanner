@@ -9,9 +9,14 @@ namespace Entidades.Modelos
 {
     public class Evento : Models
     {
-        public Evento(int id, string direccion, string descripcion, string categoria, string nombreEvento, DateTime fecha, int capacidad, double montoTotal)
+           
+        public Evento(int id, TimeSpan horaInicio, TimeSpan horaFin,string cedulaCliente,string tipoEvento, string direccion, string descripcion, string categoria, string nombreEvento, DateTime fecha, int capacidad, double montoTotal)
         {
             Id = id;
+            HoraInicio = horaInicio;
+            HoraFin = horaFin;
+            CedulaCliente = cedulaCliente;
+            TipoEvento = tipoEvento;
             Direccion = direccion;
             Descripcion = descripcion;
             Categoria = categoria;
@@ -27,10 +32,16 @@ namespace Entidades.Modelos
         }
 
         public int Id { get; set; }
+        public TimeSpan HoraInicio { get; set; }
 
+        public TimeSpan HoraFin { get; set; }
         public string Direccion { get; set; }
 
+        public string TipoEvento { get; set; }
+
         public string Descripcion { get; set; }
+
+        public string CedulaCliente { get; set; }
 
         public string Categoria { get; set; }
 
