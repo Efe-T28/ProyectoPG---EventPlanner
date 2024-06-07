@@ -16,7 +16,12 @@ namespace ProyectoPG
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuPrincipal());
+            Application.Run(IniciarSesion());
+        }
+        private static void ShowForm2()
+        {
+         MenuPrincipal() = new MenuPrincipal();
+         Application.Run(MenyPrinciapl());
         }
     }
 }
