@@ -21,7 +21,7 @@ namespace ProyectoPG
         private static void ShowForm2()
         {
          MenuPrincipal() = new MenuPrincipal();
-         Application.Run(MenyPrinciapl());
+         Application.Run(MenyPrincipal());
         }
     }
 }
