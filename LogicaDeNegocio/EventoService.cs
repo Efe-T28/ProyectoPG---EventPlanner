@@ -36,7 +36,7 @@ namespace LogicaDeNegocio
             }
         }
 
-        public string Eliminar(int idEvento)
+           public string Eliminar(int idEvento)
         {
             try
             {
@@ -57,7 +57,7 @@ namespace LogicaDeNegocio
             }
         }
 
-        public Evento ConsultarPorId(int idEvento)
+      public Evento ConsultarPorId(int idEvento)
         {
             return eventoRepository.ConsultarPorId(idEvento);
         }
@@ -70,8 +70,7 @@ namespace LogicaDeNegocio
 
         public void Modificar(Evento evento)
         {
-           
-            throw new NotImplementedException();
+           throw new NotImplementedException();
         }
     }
 }
