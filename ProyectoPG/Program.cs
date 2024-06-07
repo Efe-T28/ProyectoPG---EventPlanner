@@ -16,7 +16,8 @@ namespace ProyectoPG
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new IniciarSesion());
+            Application.Run(new Iniciarsesion());
+            Application.Run(new MenuPrincipal());
             
         }
        
