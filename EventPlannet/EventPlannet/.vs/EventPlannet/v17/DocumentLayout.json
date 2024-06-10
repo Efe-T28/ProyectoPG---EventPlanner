@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto\\EventPlannet\\EventPlannet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E258C65D-3D88-4D5D-B6AC-81FCE8D4E24A}|Dato\\Dato.csproj|c:\\proyecto\\eventplannet\\eventplannet\\dato\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258C65D-3D88-4D5D-B6AC-81FCE8D4E24A}|Dato\\Dato.csproj|solutionrelative:dato\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE308816-C5B9-404D-8679-6C86FD842203}|Logica\\Logica.csproj|c:\\proyecto\\eventplannet\\eventplannet\\logica\\servicioreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE308816-C5B9-404D-8679-6C86FD842203}|Logica\\Logica.csproj|solutionrelative:logica\\servicioreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E258C65D-3D88-4D5D-B6AC-81FCE8D4E24A}|Dato\\Dato.csproj|C:\\Proyecto\\EventPlannet\\EventPlannet\\dato\\archivo\\repositorioreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258C65D-3D88-4D5D-B6AC-81FCE8D4E24A}|Dato\\Dato.csproj|solutionrelative:dato\\archivo\\repositorioreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E258C65D-3D88-4D5D-B6AC-81FCE8D4E24A}|Dato\\Dato.csproj|C:\\Proyecto\\EventPlannet\\EventPlannet\\dato\\archivo\\repositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E258C65D-3D88-4D5D-B6AC-81FCE8D4E24A}|Dato\\Dato.csproj|solutionrelative:dato\\archivo\\repositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Dato\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "Dato\\ConexionSQL.cs",
+              "ToolTip": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Dato\\ConexionSQL.cs",
+              "RelativeToolTip": "Dato\\ConexionSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:16:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioCliente.cs",
+              "DocumentMoniker": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Dato\\Archivo\\RepositorioCliente.cs",
+              "RelativeDocumentMoniker": "Dato\\Archivo\\RepositorioCliente.cs",
+              "ToolTip": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Dato\\Archivo\\RepositorioCliente.cs",
+              "RelativeToolTip": "Dato\\Archivo\\RepositorioCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:07:25.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioReserva.cs",
+              "DocumentMoniker": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Logica\\ServicioReserva.cs",
+              "RelativeDocumentMoniker": "Logica\\ServicioReserva.cs",
+              "ToolTip": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Logica\\ServicioReserva.cs",
+              "RelativeToolTip": "Logica\\ServicioReserva.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:20:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioReserva.cs",
+              "DocumentMoniker": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Dato\\Archivo\\RepositorioReserva.cs",
+              "RelativeDocumentMoniker": "Dato\\Archivo\\RepositorioReserva.cs",
+              "ToolTip": "C:\\Proyecto\\EventPlannet\\EventPlannet\\Dato\\Archivo\\RepositorioReserva.cs",
+              "RelativeToolTip": "Dato\\Archivo\\RepositorioReserva.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAJwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:37:29.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

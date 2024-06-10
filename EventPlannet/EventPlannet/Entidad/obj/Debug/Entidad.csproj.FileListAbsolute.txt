@@ -1,0 +1,24 @@
+C:\Users\kevin\Desktop\Programacion lll\EventPlannet\Entidad\bin\Debug\Entidad.dll
+C:\Users\kevin\Desktop\Programacion lll\EventPlannet\Entidad\bin\Debug\Entidad.pdb
+C:\Users\kevin\Desktop\Programacion lll\EventPlannet\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Programacion lll\EventPlannet\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Programacion lll\EventPlannet\Entidad\obj\Debug\Entidad.dll
+C:\Users\kevin\Desktop\Programacion lll\EventPlannet\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Maria\Documents\Programacion\proyecto p3\EventPlannet\EventPlannet\Entidad\bin\Debug\Entidad.dll
+C:\Users\Maria\Documents\Programacion\proyecto p3\EventPlannet\EventPlannet\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Maria\Documents\Programacion\proyecto p3\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Maria\Documents\Programacion\proyecto p3\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\Programacion\proyecto p3\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.dll
+C:\Users\Maria\Documents\Programacion\proyecto p3\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.pdb
+C:\Users\jair-\Downloads\EventPlannet\Entidad\bin\Debug\Entidad.dll
+C:\Users\jair-\Downloads\EventPlannet\Entidad\bin\Debug\Entidad.pdb
+C:\Users\jair-\Downloads\EventPlannet\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\jair-\Downloads\EventPlannet\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jair-\Downloads\EventPlannet\Entidad\obj\Debug\Entidad.dll
+C:\Users\jair-\Downloads\EventPlannet\Entidad\obj\Debug\Entidad.pdb
+C:\Users\fapar\OneDrive\Escritorio\EventPlannet\EventPlannet\Entidad\bin\Debug\Entidad.dll
+C:\Users\fapar\OneDrive\Escritorio\EventPlannet\EventPlannet\Entidad\bin\Debug\Entidad.pdb
+C:\Users\fapar\OneDrive\Escritorio\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\fapar\OneDrive\Escritorio\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\fapar\OneDrive\Escritorio\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.dll
+C:\Users\fapar\OneDrive\Escritorio\EventPlannet\EventPlannet\Entidad\obj\Debug\Entidad.pdb
