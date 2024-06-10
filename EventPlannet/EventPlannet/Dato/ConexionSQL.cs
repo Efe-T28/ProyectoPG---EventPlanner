@@ -26,7 +26,5 @@ namespace Dato
             return new SqlConnection(conexionString);
         }
 
-
-
     }
 }

@@ -68,17 +68,10 @@ namespace GUI
                 cedula = txtCedula.Text,
                 nombre = txtNombre.Text,
                 apellido = txtApellido.Text,
-                //telefono = int.Parse(txtTelefono.Text),
                 telefono = txtTelefono.Text,
                 cuenta = 0
             };
-            //Cliente cliente = new Cliente();
-            //cliente.cedula = txtCedula.Text;
-            //cliente.nombre = txtNombre.Text;
-            //cliente.apellido = txtApellido.Text;
-            ////cliente.telefono = int.Parse(txtTelefono.Text);
-            //cliente.telefono = txtTelefono.Text;
-            //cliente.cuenta = 00;
+        
 
             MessageBox.Show(servicioCliente.Crear(cliente));
             LlenarTablaCliente();
@@ -91,11 +84,7 @@ namespace GUI
             {
                 tblClientes.Rows.Add(cliente.cedula, cliente.nombre, cliente.apellido, cliente.telefono);
             }
-            //tblClientes.Rows.Clear();
-            //foreach (Cliente cliente in servicioCliente.listaClientes())
-            //{
-            //    tblClientes.Rows.Add(cliente.cedula, cliente.nombre, cliente.apellido, cliente.telefono);
-            //}
+            
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
@@ -129,7 +118,6 @@ namespace GUI
                     cedula = fila.Cells[0].Value.ToString(),
                     nombre = fila.Cells[1].Value.ToString(),
                     apellido = fila.Cells[2].Value.ToString(),
-                    //telefono = (int)long.Parse(fila.Cells[3].Value.ToString())
                     telefono = fila.Cells[3].Value.ToString(),
 
                 };
@@ -147,17 +135,10 @@ namespace GUI
                 cedula = txtCedula.Text,
                 nombre = txtNombre.Text,
                 apellido = txtApellido.Text,
-                //telefono = int.Parse(txtTelefono.Text),
                 telefono = txtTelefono.Text,
                 cuenta = 0
             };
-            //Cliente cliente = new Cliente();
-            //cliente.cedula = txtCedula.Text;
-            //cliente.nombre = txtNombre.Text;
-            //cliente.apellido = txtApellido.Text;
-            ////cliente.telefono = int.Parse(txtTelefono.Text);
-            //cliente.telefono = txtTelefono.Text;
-            //cliente.cuenta = 00;
+          
             MessageBox.Show(servicioCliente.Modificar(cliente));
             LlenarTablaCliente();
         }
@@ -276,7 +257,7 @@ namespace GUI
                 MessageBox.Show(servicioReserva.Crear(reserva));
                
                 LlenarTablaFacturas(servicioFactura.listaFacturas());
-                //LlenarTablaFacturas(servicioFactura.ListaFacturas());
+               
 
             }
             LlenarTablaReservas(servicioReserva.listaReservas());
@@ -298,11 +279,7 @@ namespace GUI
                     MessageBox.Show("Error: La reserva o el cliente es null.");
                 }
             }
-            //tblReservas.Rows.Clear(); 
-            //foreach (Reserva reserva in lista)
-            //{
-            //    tblReservas.Rows.Add(reserva.idReserva, reserva.fecha.ToString("d"), formato(reserva.horaInicio), formato(reserva.horaFin), reserva.cliente.cedula, reserva.tipoEvento, reserva.estado);
-            //}
+           
 
         }
         private string formato(TimeSpan hora)
@@ -346,11 +323,7 @@ namespace GUI
             {
                 MessageBox.Show($"Error al obtener los tipos de evento: {ex.Message}");
             }
-            //if (cmbTipoEvento.Text == "Seleccionar")
-            //{
-            //    LlenarTablaReservas(servicioReserva.listaReservas());
-            //}
-            //LlenarTablaReservas(servicioReserva.FiltroTipoEvento(cmbTipoEvento.Text));
+           
         }
 
         private void cmbTipoEvento_SelectedIndexChanged_1(object sender, EventArgs e)
@@ -389,12 +362,7 @@ namespace GUI
             {
                 MessageBox.Show($"Error al obtener los tipos de evento: {ex.Message}");
             }
-            //if (cmbTipoEvento.Text == "Seleccionar")
-            //{
-            //    LlenarTablaReservas(servicioReserva.listaReservas());
-            //}
-            //else
-            //    LlenarTablaReservas(servicioReserva.FiltroTipoEvento(cmbTipoEvento.Text));
+            
         }
 
         // Lista Facturas
@@ -421,15 +389,13 @@ namespace GUI
             else
             {
                 int id = int.Parse(txtFactura.Text);
-                Factura factura = servicioFactura.buscarFactura(id);
-                //Factura factura = servicioFactura.BuscarFactura(id);
+                Factura factura = servicioFactura.buscarFactura(id);            
                 DialogResult resultado = MessageBox.Show("¿Desea Pagar la factura " + factura.idFactura + " ?", "Confirmación de Pagar", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
 
                 if (resultado == DialogResult.OK)
                 {
                     MessageBox.Show(servicioFactura.Modificar(factura));
                     LlenarTablaFacturas(servicioFactura.listaFacturas());
-                    //LlenarTablaFacturas(servicioFactura.ListaFacturas());
                     txtFactura.Text = string.Empty;
                 }
             }
@@ -458,12 +424,12 @@ namespace GUI
             if (indice == 0)
             {
                 LlenarTablaFacturas(servicioFactura.listaFacturas());
-                //LlenarTablaFacturas(servicioFactura.ListaFacturas());
+                
             }
             else
             {
                 LlenarTablaFacturas(servicioFactura.facturas(indice));
-                //LlenarTablaFacturas(servicioFactura.Facturas(indice));
+                
             }
         }
     }
